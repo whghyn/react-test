@@ -19,6 +19,8 @@ class App extends Component {
         </p>
         <div>主分支的一系列改动</div>
         <div>b的一系列改动</div>
+        <div>a的第一次改动</div>
+        <div>a分支的二次改动</div>
       </div> 
       
 
