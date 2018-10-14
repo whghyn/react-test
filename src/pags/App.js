@@ -18,6 +18,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <div>第一次改动</div>
+        <div>第二次改动</div>
       </div> 
       
 
