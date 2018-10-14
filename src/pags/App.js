@@ -17,11 +17,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <div>第一次改动</div>
-        <div>第二次改动</div>
-        <div>第三次改动</div>
-        <div>第四次改动</div>
-        <div>分支a的改动错误地提交到了分支b</div>
+        <div>主分支的一系列改动</div>
       </div> 
       
 
