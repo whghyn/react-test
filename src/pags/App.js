@@ -22,7 +22,6 @@ class App extends Component {
         <div>第三次改动</div>
         <div>第四次改动</div>
         <div>分支a的改动错误地提交到了分支b</div>
-        <div>代码push到了远端，并且已经合到了master主分支</div>
       </div> 
       
 
