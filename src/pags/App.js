@@ -21,6 +21,7 @@ class App extends Component {
         <div>第二次改动</div>
         <div>第三次改动</div>
         <div>第四次改动</div>
+        <div>分支a的改动错误地提交到了分支b</div>
       </div> 
       
 
