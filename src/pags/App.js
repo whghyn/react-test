@@ -18,6 +18,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <div>主分支的改动一</div>
+        <div>主分支的改动二</div>
       </div> 
       
 
